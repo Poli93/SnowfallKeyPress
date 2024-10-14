@@ -140,6 +140,7 @@ SnowfallKeyPress = {settings = {
 --  "PRINTSCREEN",
     "RIGHT",
     "SCROLLLOCK",
+    "CAPSLOCK",  
     "SPACE",
     "TAB",
     "UP",
